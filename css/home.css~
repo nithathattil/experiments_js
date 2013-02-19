@@ -1,0 +1,17 @@
+body{
+background-color:#d0e4fe;
+  width: 1280px;
+    height: 752px;
+    position: absolute;
+}
+h1
+{
+color:red;
+text-align:center;
+}
+p
+{
+font-family:"Times New Roman";
+font-size:20px;
+color:blue;
+}
